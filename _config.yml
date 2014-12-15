@@ -12,7 +12,7 @@ relative_permalinks: true
 title:               scooterx3.net
 tagline:             'my tagline is better than your tagline'
 description:         'A place to store and present things I learn about tech'
-baseurl:             /
+baseurl: /
 paginate:            5
 host: jekyll.scooterx3.net
 port: 8080
@@ -23,5 +23,3 @@ author:
   name:              Riley Loader
   email:             riley.loader@gmail.com
 
-# Custom vars
-version:             1.0.0
